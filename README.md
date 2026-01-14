@@ -1,14 +1,14 @@
 # Financial Inclusion and Bank Health: A State-Level Analytical Study Using RBI Statistics  
 
-**Author:** `Vivek Ranjan` `Gurjot Kaur`   
-
-**Meet Vivek Ranjan**  
-**Email Id:** vivekranjan21639@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/vivek-ranjan-jnu/
+**Author:** `Gurjot Kaur` `Vivek Ranjan`  
 
 **Meet Gurjot Kaur**  
 **Email Id:** gurjotk276@gmail.com  
 **LinkedIn:** https://in.linkedin.com/in/gurjot-kaur-a16641281
+
+**Meet Vivek Ranjan**  
+**Email Id:** vivekranjan21639@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/vivek-ranjan-jnu/
 
 ## About the Project 
 Financial inclusion has been a central pillar of India’s financial sector policy over the past decade, with sustained efforts aimed at expanding banking access, deepening credit penetration, and integrating underserved regions into the formal financial system. Alongside inclusion, the stability and soundness of the banking system remain core priorities for the Reserve Bank of India, particularly from a supervisory perspective.
